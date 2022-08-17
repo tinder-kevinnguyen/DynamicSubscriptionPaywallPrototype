@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5173341323428A25003FF47B"
-               BuildableName = "TapStore.app"
+               BuildableName = "DynamicSubscriptionPaywall.app"
                BlueprintName = "DynamicSubscriptionPaywall"
                ReferencedContainer = "container:DynamicSubscriptionPaywall.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5173341323428A25003FF47B"
-            BuildableName = "TapStore.app"
+            BuildableName = "DynamicSubscriptionPaywall.app"
             BlueprintName = "DynamicSubscriptionPaywall"
             ReferencedContainer = "container:DynamicSubscriptionPaywall.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5173341323428A25003FF47B"
-            BuildableName = "TapStore.app"
+            BuildableName = "DynamicSubscriptionPaywall.app"
             BlueprintName = "DynamicSubscriptionPaywall"
             ReferencedContainer = "container:DynamicSubscriptionPaywall.xcodeproj">
          </BuildableReference>
