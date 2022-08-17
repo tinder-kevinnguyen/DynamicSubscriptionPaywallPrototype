@@ -13,7 +13,6 @@
 		5173342123428A27003FF47B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5173342023428A27003FF47B /* Assets.xcassets */; };
 		5173342423428A27003FF47B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5173342223428A27003FF47B /* LaunchScreen.storyboard */; };
 		5173343423428CF8003FF47B /* DynamicSubscriptionPaywallViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5173342D23428CF8003FF47B /* DynamicSubscriptionPaywallViewController.swift */; };
-		5173343823428CF8003FF47B /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5173343123428CF8003FF47B /* Bundle-Decodable.swift */; };
 		5173345823434CE2003FF47B /* SelfConfiguringCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5173345723434CE2003FF47B /* SelfConfiguringCell.swift */; };
 		5173345A23434D0F003FF47B /* CarouselCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5173345923434D0F003FF47B /* CarouselCell.swift */; };
 		5173346023435BAE003FF47B /* FeatureCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5173345F23435BAE003FF47B /* FeatureCell.swift */; };
@@ -30,7 +29,6 @@
 		5173342323428A27003FF47B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5173342523428A27003FF47B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5173342D23428CF8003FF47B /* DynamicSubscriptionPaywallViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DynamicSubscriptionPaywallViewController.swift; sourceTree = "<group>"; };
-		5173343123428CF8003FF47B /* Bundle-Decodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		5173345723434CE2003FF47B /* SelfConfiguringCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfConfiguringCell.swift; sourceTree = "<group>"; };
 		5173345923434D0F003FF47B /* CarouselCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselCell.swift; sourceTree = "<group>"; };
 		5173345F23435BAE003FF47B /* FeatureCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCell.swift; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 				5173345F23435BAE003FF47B /* FeatureCell.swift */,
 				5173346123435EDF003FF47B /* SectionHeader.swift */,
 				C607D4D228ADA56800D5F36C /* SectionFooter.swift */,
-				5173343123428CF8003FF47B /* Bundle-Decodable.swift */,
 				5173341D23428A25003FF47B /* Main.storyboard */,
 				5173342023428A27003FF47B /* Assets.xcassets */,
 				5173342223428A27003FF47B /* LaunchScreen.storyboard */,
@@ -158,7 +155,6 @@
 			files = (
 				5173341823428A25003FF47B /* AppDelegate.swift in Sources */,
 				5173343423428CF8003FF47B /* DynamicSubscriptionPaywallViewController.swift in Sources */,
-				5173343823428CF8003FF47B /* Bundle-Decodable.swift in Sources */,
 				C607D4D328ADA56800D5F36C /* SectionFooter.swift in Sources */,
 				5173345A23434D0F003FF47B /* CarouselCell.swift in Sources */,
 				5173345823434CE2003FF47B /* SelfConfiguringCell.swift in Sources */,
