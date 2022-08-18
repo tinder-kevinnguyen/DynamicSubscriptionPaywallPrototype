@@ -1,3 +1,3 @@
 # DynamicSubscriptionPaywallPrototype
 
-![Screen Shot 2022-08-17 at 4 02 53 PM](https://user-images.githubusercontent.com/92338946/185258616-5789a91d-e6d2-4391-980c-7ac27599062c.png)
+![Screen Shot 2022-08-17 at 6 26 41 PM](https://user-images.githubusercontent.com/92338946/185272089-4e40118e-6f10-41d2-a215-5ba5862f3133.png)
