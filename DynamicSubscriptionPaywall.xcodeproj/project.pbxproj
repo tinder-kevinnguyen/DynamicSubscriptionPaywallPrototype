@@ -18,6 +18,7 @@
 		5173346023435BAE003FF47B /* FeatureCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5173345F23435BAE003FF47B /* FeatureCell.swift */; };
 		5173346223435EDF003FF47B /* SectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5173346123435EDF003FF47B /* SectionHeader.swift */; };
 		C607D4D328ADA56800D5F36C /* SectionFooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C607D4D228ADA56800D5F36C /* SectionFooter.swift */; };
+		C6843CA328ADCB800000C285 /* ListBackgroundDecorationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6843CA228ADCB800000C285 /* ListBackgroundDecorationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		5173345F23435BAE003FF47B /* FeatureCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCell.swift; sourceTree = "<group>"; };
 		5173346123435EDF003FF47B /* SectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionHeader.swift; sourceTree = "<group>"; };
 		C607D4D228ADA56800D5F36C /* SectionFooter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionFooter.swift; sourceTree = "<group>"; };
+		C6843CA228ADCB800000C285 /* ListBackgroundDecorationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBackgroundDecorationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				5173345F23435BAE003FF47B /* FeatureCell.swift */,
 				5173346123435EDF003FF47B /* SectionHeader.swift */,
 				C607D4D228ADA56800D5F36C /* SectionFooter.swift */,
+				C6843CA228ADCB800000C285 /* ListBackgroundDecorationView.swift */,
 				5173341D23428A25003FF47B /* Main.storyboard */,
 				5173342023428A27003FF47B /* Assets.xcassets */,
 				5173342223428A27003FF47B /* LaunchScreen.storyboard */,
@@ -157,6 +160,7 @@
 				5173343423428CF8003FF47B /* DynamicSubscriptionPaywallViewController.swift in Sources */,
 				C607D4D328ADA56800D5F36C /* SectionFooter.swift in Sources */,
 				5173345A23434D0F003FF47B /* CarouselCell.swift in Sources */,
+				C6843CA328ADCB800000C285 /* ListBackgroundDecorationView.swift in Sources */,
 				5173345823434CE2003FF47B /* SelfConfiguringCell.swift in Sources */,
 				5173346023435BAE003FF47B /* FeatureCell.swift in Sources */,
 				5173341A23428A25003FF47B /* SceneDelegate.swift in Sources */,

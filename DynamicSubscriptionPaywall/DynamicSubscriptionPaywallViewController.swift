@@ -163,9 +163,17 @@ final class DynamicSubscriptionPaywallViewController: UIViewController {
             case .products:
                 return self.createCarouselSection()
             case .features:
-                return self.createListSection()
+                let listSection = self.createListSection()
+                let decoration = NSCollectionLayoutDecorationItem.background(elementKind: ListBackgroundDecorationView.elementKind)
+                decoration.contentInsets = .init(top: 0, leading: 10, bottom: 0, trailing: 10)
+                listSection.decorationItems = [decoration]
+                return listSection
             }
         }
+
+        layout.register(
+            ListBackgroundDecorationView.self,
+            forDecorationViewOfKind: ListBackgroundDecorationView.elementKind)
 
         let config = UICollectionViewCompositionalLayoutConfiguration()
         config.interSectionSpacing = 20
